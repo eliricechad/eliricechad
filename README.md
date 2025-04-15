@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://media.licdn.com/dms/image/v2/D4E03AQGTMg4wy6KIcw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1729284995155?e=1750291200&v=beta&t=iowoLdlYQkauO2ns1agOEFvUIEHaxN_ssEdmh_KVJmU">
- <source media="(prefers-color-scheme: light)" srcset="https://media.licdn.com/dms/image/v2/D4E03AQGTMg4wy6KIcw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1729284995155?e=1750291200&v=beta&t=iowoLdlYQkauO2ns1agOEFvUIEHaxN_ssEdmh_KVJmUE">
- <img alt="YOUR-ALT-TEXT" src="https://media.licdn.com/dms/image/v2/D4E03AQGTMg4wy6KIcw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1729284995155?e=1750291200&v=beta&t=iowoLdlYQkauO2ns1agOEFvUIEHaxN_ssEdmh_KVJmU">
+ <source media="(prefers-color-scheme: dark)" srcset=https://media.licdn.com/dms/image/v2/D4E03AQGTMg4wy6KIcw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1729284995155?e=1750291200&v=beta&t=iowoLdlYQkauO2ns1agOEFvUIEHaxN_ssEdmh_KVJmU>
+ <source media="(prefers-color-scheme: light)" srcset=https://media.licdn.com/dms/image/v2/D4E03AQGTMg4wy6KIcw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1729284995155?e=1750291200&v=beta&t=iowoLdlYQkauO2ns1agOEFvUIEHaxN_ssEdmh_KVJmUE>
+ <img alt="YOUR-ALT-TEXT" src=https://media.licdn.com/dms/image/v2/D4E03AQGTMg4wy6KIcw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1729284995155?e=1750291200&v=beta&t=iowoLdlYQkauO2ns1agOEFvUIEHaxN_ssEdmh_KVJmU>
 </picture>
