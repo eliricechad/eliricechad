@@ -30,3 +30,9 @@ I'm a healthcare worker moving into the data analytics space.
 |     1| Excel          |
 |     2| Python         |
 |     3| SQL            |
+
+| Rank | My Healthcare Skills |
+|-----:|----------------------|
+|     1| LGBTQ+ Health        |
+|     2| Cardiac Physiology   |
+|     3| Palliative Care      |
