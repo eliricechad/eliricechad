@@ -19,7 +19,8 @@ Here are some ideas to get you started:
  <source media="(prefers-color-scheme: light)" srcset="https://media.licdn.com/dms/image/v2/D4E03AQGTMg4wy6KIcw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1729284995155?e=1750291200&v=beta&t=1eo25852EQ8Jq_1_RnItxdmhn2CJWOhRxxM-eCs_lrY">
  <img alt="A picture of me, Eli Rice, wearing an olive green sweater, a green jacket with a fleece collar, and glasses" src="https://media.licdn.com/dms/image/v2/D4E03AQGTMg4wy6KIcw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1729284995155?e=1750291200&v=beta&t=1eo25852EQ8Jq_1_RnItxdmhn2CJWOhRxxM-eCs_lrY">
 </picture>
-## About Me:
+
+## About me
 Pronouns: he/him/any
 
 I'm a healthcare worker moving into the data analytics space.
